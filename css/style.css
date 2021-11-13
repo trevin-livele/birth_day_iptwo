@@ -60,6 +60,13 @@
   }
   
 
+  .form-control {
+    position: relative;
+    width: 300px;
+    margin: 20px 0 40px;
+  } 
+  
+
 
 
 
