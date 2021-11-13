@@ -29,3 +29,18 @@
     margin-bottom: 30px;
     color: #171b20;
   }
+
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+    background: #1da1f2;
+    color: #fff;
+    padding: 15px;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;
+  }
