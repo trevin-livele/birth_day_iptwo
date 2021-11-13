@@ -13,6 +13,9 @@ function Akangen(event) {
     let gender = document.getElementById('gender').value;
 
     let dayNumber = new Date(date).getDay()
+
+
+
     if (gender == '' || date == '') {
         alert('Error! You have to provide both your gender and date of birth')
 
