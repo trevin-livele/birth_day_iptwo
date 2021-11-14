@@ -293,6 +293,7 @@ html {
   position: relative;
   margin-bottom: 20px;
   z-index: -2;
+  
 }
 
 .hero::before {
@@ -357,4 +358,9 @@ html {
 }
 .i{
   color: brown;
+}
+
+
+.details {
+  color: darkred;
 }
