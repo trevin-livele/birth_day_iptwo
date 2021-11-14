@@ -1,5 +1,8 @@
 #read me file
 ![alt text](./img/akan.png)
+![alt text](./img/akan2.png)
+![alt text](./img/akan3.png)
+
 
 # Author
 Trevin Livele
