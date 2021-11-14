@@ -327,3 +327,34 @@ html {
   line-height: 30px;
   letter-spacing: 1.1px;
 }
+
+
+.a{
+  color: red;
+}
+
+.b{
+  color:green;
+}
+.c{
+  color: yellow;
+}
+.d{
+  color:yellowgreen;
+}
+.e{
+  color:burlywood;
+}
+
+.f{
+  color:orange;
+}
+.g{
+  color:orangered;
+}
+.h{
+  color: olivedrab;
+}
+.i{
+  color: brown;
+}
