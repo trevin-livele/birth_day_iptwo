@@ -51,9 +51,11 @@
 .nav a:hover {
   color: #c0392b;
   font-weight: bold;
+
+  /* align-items: center; */
 }
 
-
+     
 
 
 
